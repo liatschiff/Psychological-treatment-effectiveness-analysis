@@ -22,7 +22,7 @@
 The findings of the project show that a patient who suffers from post-trauma and is before psychological treatment often uses adjectives and future tenses compared to a patient after treatment, moreover a patient after treatment tends to use more pronouns-nickname and words expressing emotion and conscious than a pre-treatment patient.
 All of this can indicate that a person suffering from post-trauma has difficulty focusing on the present, has difficulty expressing their feelings, and is less aware of himself and his environment. Unlike a recovered patient who recognizes his feelings, expresses his feelings, and notices the people around him.
 
-![image](https://user-images.githubusercontent.com/49638927/92263442-4e7da500-eee5-11ea-8348-045dbdef1eb6.png)
+![image](https://user-images.githubusercontent.com/49638679/95485689-c5053b00-099a-11eb-9a6d-c87dc93634d5.png)
 
 ## Conclusions
 The objectives of the project were achieved, we found differences between patients suffering from post-trauma before psychological treatment and patients after psychological treatment.
